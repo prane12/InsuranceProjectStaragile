@@ -90,7 +90,7 @@
 </head>
 <body>
   <form action="addpolicy" id="polcyForm" type="POST">
-    <h1 class="custom-heading">Tousif Insurance Policy Company Pvt.Ltd</h1>
+    <h1 class="custom-heading">pranesh Insurance Policy Company Pvt.Ltd</h1>
 
     <!-- Input fields -->
     <label for="id">Enter your ID:</label>
